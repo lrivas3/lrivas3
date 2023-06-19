@@ -2,12 +2,11 @@
 
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
+  <h2 align="center">I'm a computer science student from El Salvador</h2>
   <p align="center">
     <samp>
-        I'm a computer science student from El Salvador
-      </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FB418C&center=true&vCenter=true&width=435&lines=I+love+learning+cool+stuff">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FB418C&center=true&vCenter=true&width=435&lines=I+love+learning+cool+stuff;I+like+breaking+stuff;I+like+penguins+%3C3;I+love+hacking">
       <br>
     </samp>
   </p>
@@ -18,6 +17,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrivas3&show_icons=true&theme=radical&rank_icon=github" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrivas3&layout=compact&theme=radical" /> |
 | --------- | ------- |
 
+<!-- Others -->
 
 :seedling: I'm currently learning:
 
@@ -40,6 +40,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+<!-- Blog -->
 
 ## :books: My blog posts
 <!-- BLOG-POST-LIST:START -->
