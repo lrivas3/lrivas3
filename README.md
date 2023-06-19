@@ -2,7 +2,7 @@
 
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
-  <h2 align="center">I'm a computer science student from El Salvador</h2>
+  <h3 align="center">I'm a computer science student from El Salvador</h3>
   <p align="center">
     <samp>
       <br>
