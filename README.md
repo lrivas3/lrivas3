@@ -1,6 +1,19 @@
 # Hi there, I'm Leonardo :wave:
 
-I'm a computer science student from El Salvador
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+        I'm a computer science student from El Salvador
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FB418C&center=true&vCenter=true&width=435&lines=I+love+learning+cool+stuff">
+      <br>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+
+<br>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrivas3&show_icons=true&theme=radical&rank_icon=github" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrivas3&layout=compact&theme=radical" /> |
 | --------- | ------- |
