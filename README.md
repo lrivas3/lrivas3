@@ -14,7 +14,7 @@
 
 <br>
 
-| <img align="center" src="https://github-readme-stats-chi-pink-88.vercel.app/api?username=lrivas3&show_icons=true&theme=radical&rank_icon=github" /> | <img align="center" src="https://github-readme-stats-chi-pink-88.vercel.app/api/top-langs/?username=lrivas3&layout=compact&theme=radical" /> |
+| <img align="center" src="https://github-readme-stats-mu-black-50.vercel.app/api?username=lrivas3&show_icons=true&theme=radical&rank_icon=github" /> | <img align="center" src="https://github-readme-stats-mu-black-50.vercel.app/api/top-langs/?username=lrivas3&layout=compact&theme=radical" /> |
 | --------- | ------- |
 
 <!-- Others -->
