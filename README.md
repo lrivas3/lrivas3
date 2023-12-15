@@ -25,7 +25,7 @@
 
 :construction: I'm interested in Linux, DevOps and Infrastructure
 
-:heart: I like using:
+:hearts: I like using:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
